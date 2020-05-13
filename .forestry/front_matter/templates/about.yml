@@ -1,0 +1,22 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: timeToRead
+  label: timeToRead
+- type: list
+  name: authors
+  label: authors
+- type: text
+  name: title
+  label: title
+- type: text
+  name: excerpt
+  label: excerpt
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: hero
+  label: hero

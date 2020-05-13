@@ -10,7 +10,7 @@ sections:
   path: content/_index.md
   label: Home
 - type: document
-  path: about
+  path: content/about
   label: About
 - type: directory
   path: content/post

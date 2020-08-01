@@ -5,6 +5,9 @@ draft = true
 featured = false
 title = "Jen Smeriglio"
 [[social]]
+title = "Twitter"
+url = "https://twitter.com/jensmeriglio"
+[[social]]
 title = "Instagram"
 url = "https://www.instagram.com/jensmergg/"
 
